@@ -1,8 +1,26 @@
-# React + Vite
+# Project_map
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+How To Setup
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Clone the repo
+
+Setup your .env file in the root folder by creating a new firebase project
+
+Environment variables
+
+VITE_API_KEY=
+VITE_AUTH_DOMAIN=
+VITE_PROJECT_ID=
+VITE_STORAGE_BUCKET=
+VITE_MESSAGING_SENDER_ID=
+VITE_APP_ID=
+VITE_MEASUREMENT_ID=
+
+
+Run npm install
+Run npm run dev
+
+
+Enjoy!!
